@@ -1,4 +1,5 @@
-# Financial Tracker Application
+# Personal Finance Management
+
 
 ## Loyihaning maqsadi
 

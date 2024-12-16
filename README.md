@@ -73,6 +73,7 @@ Bu loyiha foydalanuvchilarga shaxsiy moliyaviy harajatlarini va daromadlarini ku
 
 Hojiakbar Chinozbekov Loyiha ishlab chiquvchisi
 [Aloqaga chiqish](https://t.me/khojiakbar_developer)
+<br/>
 [Men haqimda](https://khojiakbar-dev-portfolio.vercel.app/)
 
 # personal-finance-management
